@@ -16,7 +16,7 @@
     
     if ($_POST['godine'] >= 18)
     {
-        echo('Vi ste punoljetni!');
+        echo('Vi ste PUNOLJETNI!');
     }
     else
     {
